@@ -1,0 +1,182 @@
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\ApplicationInsights.config
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\roslyn\csc.exe
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\roslyn\System.Collections.Immutable.dll
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\roslyn\System.Reflection.Metadata.dll
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\roslyn\vbc.exe
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\roslyn\VBCSCompiler.exe
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\roslyn\VBCSCompiler.exe.config
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\WebAPIDemo.dll.config
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\WebAPIDemo.dll
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\WebAPIDemo.pdb
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Antlr3.Runtime.dll
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\EntityFramework.dll
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\EntityFramework.SqlServer.dll
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.DependencyCollector.dll
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.Web.dll
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.WindowsServer.dll
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.ApplicationInsights.dll
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.dll
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.dll
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Google.dll
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.Web.Infrastructure.dll
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Newtonsoft.Json.dll
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Owin.dll
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\System.Net.Http.Formatting.dll
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\System.Web.Helpers.dll
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.dll
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.WebHost.dll
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\System.Web.Mvc.dll
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\System.Web.Optimization.dll
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\System.Web.Razor.dll
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.Deployment.dll
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.dll
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.Razor.dll
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\WebGrease.dll
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.DependencyCollector.xml
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.Web.xml
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.WindowsServer.xml
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.ApplicationInsights.xml
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\System.Web.Helpers.xml
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\System.Web.Mvc.xml
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\System.Web.Optimization.xml
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\System.Web.Razor.xml
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.xml
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.Deployment.xml
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.Razor.xml
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Antlr3.Runtime.pdb
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Newtonsoft.Json.xml
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\System.Net.Http.Formatting.xml
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.xml
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.WebHost.xml
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\EntityFramework.xml
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\EntityFramework.SqlServer.xml
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.xml
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.xml
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Google.xml
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\obj\Debug\WebAPIDemo.csprojResolveAssemblyReference.cache
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\obj\Debug\WebAPIDemo.dll
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\obj\Debug\WebAPIDemo.pdb
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\System.Web.Cors.dll
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.Cors.dll
+D:\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.Cors.xml
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\ApplicationInsights.config
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\roslyn\csc.exe
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\roslyn\System.Collections.Immutable.dll
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\roslyn\System.Reflection.Metadata.dll
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\roslyn\vbc.exe
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\roslyn\VBCSCompiler.exe
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\roslyn\VBCSCompiler.exe.config
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\WebAPIDemo.dll.config
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\WebAPIDemo.dll
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\WebAPIDemo.pdb
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Antlr3.Runtime.dll
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\EntityFramework.dll
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\EntityFramework.SqlServer.dll
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.Agent.Intercept.dll
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.DependencyCollector.dll
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.Web.dll
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.WindowsServer.dll
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.ApplicationInsights.dll
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.AspNet.Identity.Core.dll
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.dll
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Cookies.dll
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.dll
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Facebook.dll
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Google.dll
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.OAuth.dll
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Twitter.dll
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.Web.Infrastructure.dll
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Newtonsoft.Json.dll
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Owin.dll
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\System.Net.Http.Formatting.dll
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\System.Web.Cors.dll
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\System.Web.Helpers.dll
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.Cors.dll
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.dll
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.WebHost.dll
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\System.Web.Mvc.dll
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\System.Web.Optimization.dll
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\System.Web.Razor.dll
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.Deployment.dll
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.dll
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.Razor.dll
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\WebGrease.dll
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.DependencyCollector.xml
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.Web.xml
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.WindowsServer.xml
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.ApplicationInsights.xml
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.Cors.xml
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\System.Web.Helpers.xml
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\System.Web.Mvc.xml
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\System.Web.Optimization.xml
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\System.Web.Razor.xml
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.xml
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.Deployment.xml
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.Razor.xml
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Antlr3.Runtime.pdb
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Newtonsoft.Json.xml
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\System.Net.Http.Formatting.xml
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.xml
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.WebHost.xml
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\EntityFramework.xml
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\EntityFramework.SqlServer.xml
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.AspNet.Identity.Core.xml
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.xml
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.xml
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Facebook.xml
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Cookies.xml
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.OAuth.xml
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Google.xml
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Twitter.xml
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\obj\Debug\WebAPIDemo.csprojResolveAssemblyReference.cache
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\obj\Debug\WebAPIDemo.dll
+E:\D Drive\Angular\WebAPI\WebAPIDemo\WebAPIDemo\obj\Debug\WebAPIDemo.pdb
